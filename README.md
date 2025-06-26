@@ -5,19 +5,21 @@
 
 <br/>
 
-## 🚀 About Me
+Show Image
+<h1 align="center">Hi 👋, I'm Amir Tavassoli</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | Always Learning Something New</h3>
+<br/>
+🚀 About Me
+
+🔭 I'm currently working on modern web applications using React and Next.js
+🌱 I'm passionate about creating responsive, user-friendly interfaces with Tailwind CSS
+💡 I love exploring new technologies and best practices in frontend development
+💬 Ask me about JavaScript, React, Next.js, and modern CSS frameworks
+📫 How to reach me: amirtavass62@gmail.com
+⚡ Fun fact: I believe great code is like poetry - elegant, purposeful, and impactful
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
-
-- 🔭 I'm currently working on modern web applications using **React** and **Next.js**
-- 🌱 I'm passionate about creating responsive, user-friendly interfaces with **Tailwind CSS**
-- 💡 I love exploring new technologies and best practices in frontend development
-- 💬 Ask me about **JavaScript, React, Next.js, and modern CSS frameworks**
-- 📫 How to reach me: **amirtavass62@gmail.com**
-- ⚡ Fun fact: I believe great code is like poetry - elegant, purposeful, and impactful
-
 <br clear="both"/>
-
 ## 🛠️ Languages and Tools
 
 <div align="center">
