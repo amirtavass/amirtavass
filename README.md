@@ -5,11 +5,9 @@
 
 <br/>
 
-<div align="center">
-  <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" style="margin-left: 20px;">
-</div>
-
 ## 🚀 About Me
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🔭 I'm currently working on modern web applications using **React** and **Next.js**
 - 🌱 I'm passionate about creating responsive, user-friendly interfaces with **Tailwind CSS**
@@ -26,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
@@ -41,7 +39,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtavass&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtavass&theme=dark" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
