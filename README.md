@@ -41,9 +41,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtavass&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtavass&theme=dark" alt="GitHub Streak"/>
-</div>
+
 
 <br/>
 
