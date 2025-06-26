@@ -1,26 +1,33 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">Hi 👋, I'm Amir Tavassoli</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Amir Tavassoli</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | Always Learning Something New</h3>
 
 <br/>
 
-Show Image
-<h1 align="center">Hi 👋, I'm Amir Tavassoli</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Always Learning Something New</h3>
-<br/>
-🚀 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔭 I'm currently working on modern web applications using React and Next.js
-🌱 I'm passionate about creating responsive, user-friendly interfaces with Tailwind CSS
-💡 I love exploring new technologies and best practices in frontend development
-💬 Ask me about JavaScript, React, Next.js, and modern CSS frameworks
-📫 How to reach me: amirtavass62@gmail.com
-⚡ Fun fact: I believe great code is like poetry - elegant, purposeful, and impactful
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
-<br clear="both"/>
-## 🛠️ Languages and Tools
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> I'm currently working on modern web applications using **React** and **Next.js**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> I'm passionate about creating responsive, user-friendly interfaces with **Tailwind CSS**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" height="20" /> I love exploring new technologies and best practices in frontend development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech" width="20" height="20" /> Ask me about **JavaScript, React, Next.js, and modern CSS frameworks**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="20" height="20" /> How to reach me: **amirtavass62@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="20" height="20" /> Fun fact: I believe great code is like poetry - elegant, purposeful, and impactful
+
+</td>
+<td width="50%">
+
+<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+
+</td>
+</tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Languages and Tools
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
@@ -34,7 +41,7 @@ Show Image
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirtavass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -47,19 +54,19 @@ Show Image
 
 <br/>
 
-## 🌟 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" /> Current Focus
 
-- 🚀 Building scalable web applications with **React** and **Next.js**
-- 🎨 Mastering modern CSS with **Tailwind CSS**
-- 📚 Exploring the latest in frontend development trends
-- 🤝 Contributing to open-source projects
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> Building scalable web applications with **React** and **Next.js**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Art" width="20" height="20" /> Mastering modern CSS with **Tailwind CSS**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Exploring the latest in frontend development trends
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> Contributing to open-source projects
 
 <br/>
 
-## 📫 Let's Connect!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25" height="25" /> Let's Connect!
 
 <div align="center">
   <p>Feel free to reach out if you want to collaborate on projects, discuss frontend development, or just chat about technology!</p>
   <br/>
-  <i>⭐️ From <a href="https://github.com/amirtavass">amirtavass</a></i>
+  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="16" height="16" /> From <a href="https://github.com/amirtavass">amirtavass</a></i>
 </div>
